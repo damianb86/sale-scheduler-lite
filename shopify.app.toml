@@ -1,6 +1,6 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
-client_id = "26b7fd8407086aec63949835d0f23875"
+client_id = "f127689aca07aaff037f4dae43424122"
 application_url = "https://example.com"
 embedded = true
 name = "Sale Scheduler Lite"
